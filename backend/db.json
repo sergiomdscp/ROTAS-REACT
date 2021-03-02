@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "sergio marinho",
+      "email": "sergiomscp@hotmal.com",
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "email": "anaclaramellomoreira@gmail.com",
+      "id": 2
+    }
+  ]
+}
